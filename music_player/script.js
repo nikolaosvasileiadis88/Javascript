@@ -25,22 +25,22 @@ let loop = true;
 
 const songsList = [
   {
-    name: "Carnival Of Rust",
-    link: "music/Carnival Of Rust.mp3",
-    artist: "Poets of the Fall",
-    image: "images/Carnival.jpg",
+    name: "Coconut Grove",
+    link: "music/Coconut Grove.mp3",
+    artist: "Hotham",
+    image: "images/song-1",
   },
   {
-    name: "Toxicity",
-    link: "music/Toxicity.mp3",
-    artist: "System of a Down",
-    image: "images/Toxicity.jpg",
+    name: "Chill Day",
+    link: "music/Chill Day.mp3",
+    artist: "LAKEY INSPIRED",
+    image: "images/song-2.jpg",
   },
   {
-    name: "My favorite game",
+    name: "Song 3",
     link: "music/My favorite game.mp3",
-    artist: "The Gardigans",
-    image: "images/my_favorite_game.jpg",
+    artist: "Artist 3",
+    image: "images/song-3.jpg,
   },
   
 ];
