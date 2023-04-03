@@ -26,21 +26,21 @@ let loop = true;
 const songsList = [
   {
     name: "Coconut Grove",
-    link: "music/Coconut Grove.mp3",
+    link: "music/Coconut_Grove.mp3",
     artist: "Hotham",
-    image: "images/song-1",
+    image: "images/song-1.jpg",
   },
   {
     name: "Chill Day",
-    link: "music/Chill Day.mp3",
+    link: "music/Chill_Day.mp3",
     artist: "LAKEY INSPIRED",
     image: "images/song-2.jpg",
   },
   {
     name: "Song 3",
-    link: "music/My favorite game.mp3",
+    link: "music/Coconut_Grove.mp3",
     artist: "Artist 3",
-    image: "images/song-3.jpg,
+    image: "images/song-3.jpg",
   },
   
 ];
